@@ -97,7 +97,7 @@ body {
       
       .neon h1{
         font-family: 'Indie Flower', cursive;
-        font-size: 3rem;
+        font-size: 3.5rem;
         font-weight: 900;
         color: #086972;
         text-shadow: black;
@@ -113,7 +113,7 @@ body {
         font-family: 'Indie Flower', cursive;
         color: #086972;
         text-shadow: black;
-        font-size: 3rem;
+        font-size: 2.7rem;
         
        font-weight: bold;
        -webkit-animation: glow 2s ease-in-out infinite alternate;
